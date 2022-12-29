@@ -1,0 +1,4 @@
+Projeto de um site estruturado com tags semânticas, 
+utilizando conceitos de Boxmodel (altura, largura, compimento, margem, preencimento).
+Utilizando ferramenta DevTools do navegador para facilitar o desenvolvimento
+Aplicando coneito de tags semânticas, acessibilidade e refatoração de código
