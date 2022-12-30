@@ -23,3 +23,9 @@ descrição do projeto 02
 <p align="center">
   <img src="https://user-images.githubusercontent.com/14807515/210090741-1fc08dc0-27ee-4959-8588-4282ae2fa086.png" width="600px" />
 </p>
+
+## Desafio avançado - Recriando layout
+
+Descrição do desafio avançado - recriando layout
+
+![Preview](https://user-images.githubusercontent.com/14807515/210097636-577d1d53-a37b-4807-b3c6-217591988c5a.png)
