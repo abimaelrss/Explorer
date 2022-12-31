@@ -23,3 +23,10 @@ descrição do projeto 02
 Descrição do desafio avançado - recriando layout
 
 ![Preview](https://user-images.githubusercontent.com/14807515/210097636-577d1d53-a37b-4807-b3c6-217591988c5a.png)
+
+## Projeto 03
+
+Trabalhando com formulários. Validações e customizações de campos
+
+![Preview](https://user-images.githubusercontent.com/14807515/210120643-2f9d358f-da49-4931-a46a-72f2f6be4859.png)
+
