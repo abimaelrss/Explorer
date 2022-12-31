@@ -28,5 +28,6 @@ Descrição do desafio avançado - recriando layout
 
 Trabalhando com formulários. Validações e customizações de campos
 
-![Preview](https://user-images.githubusercontent.com/14807515/210120643-2f9d358f-da49-4931-a46a-72f2f6be4859.png)
+![Preview](https://user-images.githubusercontent.com/14807515/210120779-73638fe0-9341-474d-9f7b-e83e2be3c94b.png)
+
 
