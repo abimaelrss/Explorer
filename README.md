@@ -30,4 +30,11 @@ Trabalhando com formulários. Validações e customizações de campos
 
 ![Preview](https://user-images.githubusercontent.com/14807515/210120779-73638fe0-9341-474d-9f7b-e83e2be3c94b.png)
 
+## Stage 03 - Formulário intermediário
+
+Trabalhando com formulários. Validações e customizações de campos
+
+![Preview](https://user-images.githubusercontent.com/14807515/210157983-9abfb16f-29dc-450c-ac18-53ded1b34418.png)
+
+
 
