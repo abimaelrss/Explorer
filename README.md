@@ -36,5 +36,9 @@ Trabalhando com formulários. Validações e customizações de campos
 
 ![Preview](https://user-images.githubusercontent.com/14807515/210157983-9abfb16f-29dc-450c-ac18-53ded1b34418.png)
 
+## Stage 03 - Formulário avançado
 
+Trabalhando com formulários. Validações e customizações de campos
+
+![Preview](https://user-images.githubusercontent.com/14807515/210188283-ed8f8f37-47e8-4979-9541-30c8e5d71721.png)
 
